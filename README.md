@@ -18,3 +18,7 @@ Static legal pages for the Vertical_Cut mobile game by White Bun, ready for GitH
 
 For Google Play, the Privacy Policy URL should point directly to `privacy-policy.html`.
 Use `dev.oniksaha@gmail.com` as the visible developer contact email unless you later choose a different support address.
+
+## Play Console Notes
+
+The Android version uses ads, so the Google Play Data Safety form should match the ad SDK actually included in the app. If the app uses Google AdMob, review Google's current AdMob data disclosure guidance before submitting.
